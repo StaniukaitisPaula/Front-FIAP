@@ -1,0 +1,23 @@
+
+h1{
+    font-size: 6vh;
+ 
+}
+
+p{
+    font-size: 3vh;
+}
+
+h2{
+    font-size: 4vh;
+}
+
+nav{
+    font-size: 3vh;
+
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
