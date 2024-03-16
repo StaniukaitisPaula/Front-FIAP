@@ -16,8 +16,16 @@ nav{
     font-size: 3vh;
 
 }
-a{
-    list-style: none;
-    text-decoration: none;
-    color: black;
+
+
+.meusFavoritos{
+    text-align: center;
+    border: solid 6px #ED145D;
+    font-size: 6vh;
+    background-color: #ED145D;
+}
+
+.menuzinho{
+    font-size: 3vh;
+
 }
