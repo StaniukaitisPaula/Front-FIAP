@@ -1,0 +1,17 @@
+.componentes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem;
+    gap: 15vh;
+   
+
+   
+}
+img {
+    width: 10VW;
+    height: 20VH;
+  border: solid 5px rgb(0, 0, 0);
+}
+  
