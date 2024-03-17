@@ -19,8 +19,9 @@ nav{
 
 
 .meusFavoritos{
+
     text-align: center;
-    border: solid 6px #ED145D;
+  
     font-size: 6vh;
     background-color: #ED145D;
 }
@@ -28,4 +29,9 @@ nav{
 .menuzinho{
     font-size: 3vh;
 
+}
+
+ul{
+    margin: 4vh;
+  
 }
