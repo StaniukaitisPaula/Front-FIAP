@@ -35,3 +35,26 @@ ul{
     margin: 4vh;
   
 }
+
+.sidenav {
+    background-color: #ED145D;
+    text-decoration: none;
+    list-style: none;
+        display: flex;
+        gap: 50vh;
+        font-size: 3rem;
+        justify-content: center;
+    
+}
+
+.pokemons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4vh;
+    flex-wrap: wrap;
+    padding: 5rem;
+    gap: 80px;
+    list-style: none;
+   
+}
