@@ -1,43 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
 
 h1{
     font-size: 6vh;
- 
 }
 
 p{
     font-size: 3vh;
+    width: 80%;
+    height: auto;
+    padding-top: 1%;
 }
 
 h2{
+    display: flex;
     font-size: 4vh;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-top: 1%;
+   
 }
 
 nav{
-    font-size: 3vh
+    font-size: 3vh;
 }
 
 
 .meusFavoritos{
     text-align: center;
     font-size: 6vh;
-    background-color: #ED145D;
+    color: #ED145D;
 }
 
 .menuzinho{
     font-size: 3vh;
+      display: flex;
+      gap: 3%;
+    padding-top: 3%;
 }
 
 ul{
-     margin: 4vh;
-}
-
-.sidenav {
-    background-color: #ED145D;
-    text-decoration: none;
-    list-style: none;
-    display: flex;
-    gap: 50vh;
-    font-size: 3rem;
-    justify-content: center;
+     margin: 5vh;
 }
 
